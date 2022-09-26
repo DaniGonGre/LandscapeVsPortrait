@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //cambia el texto al girar la pantalla
-        //probando errores
+
     }
 }
